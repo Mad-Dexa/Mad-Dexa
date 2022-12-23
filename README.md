@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mad-Dexa
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning how to code and there is always something new to learn
-- 📫 here is my discord : Dexa#2192
+- 📫 here is my discord : Mad-Dexa#2192
 
 <!---
 Mad-Dexa/Mad-Dexa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
